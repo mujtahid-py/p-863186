@@ -6,7 +6,7 @@ import Hero from "@/components/home/Hero";
 const Index = () => {
   return (
     <main className="bg-white min-h-screen overflow-hidden">
-      <div className="relative min-h-[868px] w-full pt-3 pb-[67px] px-3.5 rounded-[20px] bg-black">
+      <div className="relative min-h-[868px] w-full pt-3 pb-[67px] px-3.5 rounded-[20px] bg-[#18181A]">
         <div className="container mx-auto">
           <Navbar />
           <div className="mt-[73px] max-w-[1283px] mx-auto max-md:mt-10">
@@ -19,4 +19,3 @@ const Index = () => {
 };
 
 export default Index;
-
