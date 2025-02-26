@@ -34,7 +34,7 @@ const Navbar = () => {
       </div>
       <Button
         variant="outline"
-        className="text-[#DDFCAD] px-[30px] py-5 rounded-[20px] border border-black/40 bg-transparent hover:bg-[#DDFCAD] hover:text-black transition-colors"
+        className="text-[#DDFCAD] px-[30px] py-5 rounded-[20px] border border-white/40 [border-width:0.5px] bg-transparent hover:bg-[#DDFCAD] hover:text-black transition-colors"
       >
         Book a Call Now
       </Button>
